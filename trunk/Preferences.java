@@ -5,7 +5,7 @@ import java.util.*;
 public class Preferences {
 
     //public static String FILE_NAME = "C:\\Users\\admin\\Desktop\\Gnutella_Project SVN\\src\\preferences.txt";
-    public static String FILE_NAME = "./src/preferences.txt";
+    public static String FILE_NAME = "../src/preferences.txt";
     public static int MAX_LIVE = 5;
     public static int MAX_CACHE = 100;
     public static boolean AUTO_CONNECT = true;
